@@ -13,8 +13,9 @@ Components prices may be rather high, But considering the price of the actual va
 6. 2-stage, six-pin Toggle Switch
 7. ★ 12V Cooling Fan (The Stronger, The better)
 8. Bluetooth HC-06
-9. Motor Driver L298N(Control Fan)
-§extra led, dot-matrix, illuminance sensor, buzzer.
+9. Motor Driver L298N(Control Fan) 
+
+§extra led, dot-matrix, illuminance sensor, buzzer. 
 
 ※Hardware Parts will be TOO difficult.※
 
