@@ -20,5 +20,8 @@ Components prices may be rather high, But considering the price of the actual va
 ※Hardware Parts will be TOO difficult.※
 
 
-Writing.....
+1. Power Part
+To turn on/off all power, Because there are two power supply(6V, 12V each Board,Motor Driver), Toggle switch must be double pin than original switch. 
+
+※Toggle Switch -> if convert left pos is power off, convert right pos is power on.(Edge of "power on" is supplied directive battery)
 
