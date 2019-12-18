@@ -19,6 +19,8 @@ Recommend - "NF-F12 IndustrialPPC-3000 PWM"
 
 §Additionally, led, dot-matrix, illuminance sensor, buzzer. 
 
+ It needs <AFMotor.h> Library File! And uses <SoftwareSerial.h> to communicate with control app
+
 ※Hardware Parts will be TOO difficult.※
 
 
