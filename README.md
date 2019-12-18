@@ -25,3 +25,5 @@ To turn on/off all power, Because there are two power supply(6V, 12V each Board,
 
 ※Toggle Switch -> if convert left pos is power off, convert right pos is power on.(Edge of "power on" is supplied directive battery)
 
+
+<img width="1000" height="250" src="https://user-images.githubusercontent.com/54919474/71074040-eb1bdd80-21c4-11ea-9e12-94910fe51e8a.png">
